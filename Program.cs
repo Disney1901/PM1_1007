@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, LC1D!");
-Console.WriteLine("Hello, LC1!");
+Console.WriteLine("Hello, Doi!");
